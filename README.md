@@ -1,1 +1,1 @@
-# brewquest
+Repositório do projeto BrewQuest.
